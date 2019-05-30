@@ -14,6 +14,7 @@ public class RedisExampleApplicationTests {
 
     @Autowired
     ICacheProvider jedisCacheProvider;
+    //大三大四
 
     @Test
     public void contextLoads() {
